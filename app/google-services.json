@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1048738509107",
+    "project_id": "registro-dsm",
+    "storage_bucket": "registro-dsm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048738509107:android:be860624fd777ed5974e46",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_registro_dsm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048738509107-d6ik2d0ranq8sudbf4abg881m5dvnve7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlezyVyGg5xI1HOxQbVi3y8Jgt6KRNU5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048738509107-d6ik2d0ranq8sudbf4abg881m5dvnve7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048738509107:android:403b9dea6e8c63e6974e46",
+        "android_client_info": {
+          "package_name": "com.example.taskermanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048738509107-d6ik2d0ranq8sudbf4abg881m5dvnve7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlezyVyGg5xI1HOxQbVi3y8Jgt6KRNU5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048738509107-d6ik2d0ranq8sudbf4abg881m5dvnve7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
